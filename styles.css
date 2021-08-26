@@ -1,0 +1,17 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+    background-color: black;
+    color: white;
+}
+a:link {
+    color: white;
+}
+a:hover {
+    color: light-cyan;
+}
+a:visited {
+    color: white;
+}
+a:active {
+    color: white;
+}
