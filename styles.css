@@ -6,12 +6,15 @@ body {
 a:link {
     color: white;
 }
-a:hover {
-    color: light-cyan;
-}
 a:visited {
     color: white;
 }
+a:hover {
+    color: #e0ffff;
+}
 a:active {
     color: white;
+}
+p.center {
+    text-align: center;
 }
