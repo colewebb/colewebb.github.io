@@ -18,3 +18,9 @@ a:active {
 p.center {
     text-align: center;
 }
+b {
+    font-weight: bold;
+}
+i {
+    font-style: italic;
+}
