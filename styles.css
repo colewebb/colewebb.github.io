@@ -24,3 +24,12 @@ b {
 i {
     font-style: italic;
 }
+div#header {
+    margin-top: 25px;
+}
+div#link-list {
+    margin-top: 25px;
+}
+div#profile {
+    margin-top: 25px;
+}
